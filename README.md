@@ -7,3 +7,5 @@ It's the first time I programmed it in VBA. The first time I wrote such a progra
 ```vba
 Application.Wait Now() + VBA.TimeValue("00:00:01")
 ```
+
+![img1](效果图.gif)
